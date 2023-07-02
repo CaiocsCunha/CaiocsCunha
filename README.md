@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 ## Olá, me chamo Caio Cesar! Tenho 26 anos, sou de Maracanaú - CE.
 ### Bem vindo ao meu perfil do GitHub 👋
 
-- Atualmente estou estudando e me especializando em Desenvolvimento Web
-- Estou montando meu portifólio com projetos desenvolvidos em cursos e bootcamps que venho realizando.
+- Atualmente atuo como Desenvolvedor Salesforce, tendo relevante experiência com desenvolvimento de Lightning Web Components para agilidade e automatização de processos.
+- Estou montando meu portifólio com projetos desenvolvidos em cursos e bootcamps que venho realizando, além de projetos onde aplico as novas atualizações sobre o universo salesforce.
 
 <br>
 
