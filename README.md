@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Olá, me chamo Caio Cesar! Tenho 26 anos, sou de Maracanaú - CE.
+## Olá, me chamo Caio Cesar! Tenho 27 anos, sou de Maracanaú - CE.
 ### Bem vindo ao meu perfil do GitHub 👋
 
 - Atualmente atuo como Desenvolvedor Salesforce, tendo relevante experiência com desenvolvimento de Lightning Web Components para agilidade e automatização de processos.
